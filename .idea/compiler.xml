@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="taller-1-softlond" />
+        <module name="talleres-softlond" />
       </profile>
     </annotationProcessing>
   </component>
