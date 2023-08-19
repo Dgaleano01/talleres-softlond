@@ -1,0 +1,10 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(é×•8µˆ¬ú1
+€
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(ãáÿ8¸ˆ¬ú1
+…
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(Éİş÷ùÿÿÿÿ8¹ˆ¬ú1
+€
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(òÜ¢ı8»ˆ¬ú1
+…
+java:S1157"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(‰Ôªúÿÿÿÿ8½ˆ¬ú1
